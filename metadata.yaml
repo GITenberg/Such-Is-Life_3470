@@ -1,0 +1,62 @@
+_repo: Such-Is-Life_3470
+creator:
+  author:
+    agent_name: Furphy, Joseph
+    alias: Collins, Tom
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '1205'
+    url: http://www.gutenberg.org/2009/agents/1205
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Furphy
+description: "Such Is Life: Being Certain Extracts From The Diary of Tom Collins is\
+  \ a novel written by the Australian author Joseph Furphy (aka Tom Collins) in 1897,\
+  \ and published on 1 August 1903. It is a fictional account of the life of rural\
+  \ dwellers, including bullock drivers, squatters and itinerant travellers, in southern\
+  \ New South Wales and Victoria, during the 1880s.\nThe book gives the impression\
+  \ of being a series of loosely interwoven stories of the various people encountered\
+  \ by the narrator as he travels about the countryside. The people he meets round\
+  \ campfires pass on news and gossip and tell stories, so that sometimes the reader\
+  \ can infer information by putting these second hand stories together with the action\
+  \ of the narrative. At times the prose may be difficult for some modern readers\
+  \ to understand because of the use of Australian vernacular and the attempt to convey\
+  \ the accents of Scottish and Chinese personalities.\nThe title of Such Is Life\
+  \ is said to be derived from Ned Kelly's last words—said as he was about to be hanged.\
+  \ The book is full of mordant irony from start to finish, not least from the contrast\
+  \ between the narration and the action—the narrator at times employing extremely\
+  \ high blown language (and displaying Furphy's almost freakish degree of book-learning)\
+  \ in humorous contrast to the extremely low characters and mundane events he is\
+  \ describing. Furphy employs both pathos and bathos and the narration teases the\
+  \ reader with its tangents, like a shaggy dog story. (The pseudonym 'Tom Collins'\
+  \ is slang for a tall story.) There are hidden substories, and the narrator sometimes\
+  \ gets hold of the wrong end of the stick in untangling them, but the reader can\
+  \ nut them out. Subjects which occur in the book but are not spoken of directly\
+  \ include: foul language; nakedness and undergarments; passing as the opposite sex;\
+  \ homosexuality among bullock drivers; effeminacy; mutilation; and murder. At the\
+  \ same time the great joy of the novel is its realism: Furphy is able to capture\
+  \ the flavour of interaction between the bush characters he meets, their way of\
+  \ talking, the physical landscape, the feel of a nomad's life. The 19th century\
+  \ US novelist he is most similar in approach to is Mark Twain. With its use of a\
+  \ digressive, unreliable narrator, Furphy's method in Such Is Life can be compared\
+  \ with that of his Brazilian contemporary Machado de Assis.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3470'
+  wikidata: Q7632777
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diary fiction'
+- !lcsh 'Australia -- Fiction'
+- !lcsh 'Bullockies -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcc 'PR'
+title: Such Is Life
+url: http://www.gutenberg.org/ebooks/3470
+wikipedia:
+- https://sh.wikipedia.org/wiki/Such_Is_Life_(roman)
+- https://en.wikipedia.org/wiki/Such_Is_Life_(novel)
