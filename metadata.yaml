@@ -1,5 +1,8 @@
 _repo: Such-Is-Life_3470
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Furphy, Joseph
@@ -40,6 +43,8 @@ description: "Such Is Life: Being Certain Extracts From The Diary of Tom Collins
   \ digressive, unreliable narrator, Furphy's method in Such Is Life can be compared\
   \ with that of his Brazilian contemporary Machado de Assis.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3470#Such-Is-Life
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2002-10-01'
 gutenberg_type: Text
